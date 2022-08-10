@@ -1,0 +1,22 @@
+{
+  "name": "exemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrpte.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DialloNoussy/exemple.git"
+  },
+  "author": "Noussy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DialloNoussy/exemple/issues"
+  },
+  "homepage": "https://github.com/DialloNoussy/exemple#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
